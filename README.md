@@ -38,7 +38,7 @@
 <h3 align="center"> 🚀 Demostração da página</h3>
 
 <div align="center">
-    <img  src="./ladingpage-steve-jobs/assets/gif/steve-jobs" width="auto" height="auto" alt="">
+    <img  src="./ladingpage-steve-jobs/assets/gif/steve-jobs.gif" width="auto" height="auto" alt="">
 </div>
 										     
 <hr>
